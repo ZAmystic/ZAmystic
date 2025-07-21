@@ -1,12 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZAmystic/ZAmystic/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZAmystic/ZAmystic/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZAmystic/ZAmystic/output/pacman-contribution-graph.svg">
-</picture>
+<h1 align="center">Hello I'm Theart</h1>
 
 ###
 
-<h1 align="center">Hello I'm Theart</h1>
+<div align="center">
+  <img height="200" src="https://cdn.discordapp.com/attachments/1208343853883457577/1384523764246511697/TheartBanner.png?ex=687ee7fc&is=687d967c&hm=40a2e8e4804b3b21a4b567dd1a6b77ed61cca871b7f6ef6a49cdb896d21c6b3b&"  />
+</div>
 
 ###
 
@@ -18,16 +16,7 @@
 
 ###
 
-<p align="left">I'm a passionate and driven software engineering student, eager to create impactful software and grow as a developer. With a keen interest in problem-solving and application design.</p>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
+<p align="center">I’m a Software Engineering student at Belgium Campus with a keen focus on building reliable, intuitive, and high-performing digital solutions. My passion for technology stems from a deep curiosity about how systems work behind the scenes—whether it’s designing clean software architecture or assembling custom hardware. I take pride in creating tools that are not only functional but also deliver refined user experiences.<br><br>Tech Stack & Development Focus<br>I’m proficient in C#, JavaScript, HTML, CSS, and SQL, with a growing interest in full-stack development. While I enjoy building end-to-end solutions, my core strength lies in back-end architecture—ensuring that what powers the product is just as solid as what users see.</p>
 
 ###
 
@@ -39,10 +28,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZAmystic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZAmystic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZAmystic&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -51,11 +38,11 @@
 
 ###
 
-<h3 align="center">I code with</h3>
+<h3 align="left">Skills</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
