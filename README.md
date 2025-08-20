@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" **src="C:\Users\thear\OneDrive\Pictures\Theart\TheartBanner.png"**/>
+  <img height="200" **src="images\TheartBanner.png"**/>
 </div>
 
 ###
