@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1208343853883457577/1384523764246511697/TheartBanner.png?ex=687ee7fc&is=687d967c&hm=40a2e8e4804b3b21a4b567dd1a6b77ed61cca871b7f6ef6a49cdb896d21c6b3b&"  />
+  <img height="200" src="C:\Users\thear\OneDrive\Pictures\Theart\TheartBanner.png"  />
 </div>
 
 ###
