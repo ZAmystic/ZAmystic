@@ -12,7 +12,7 @@
 
 ###
 
-<h5 align="center">📍 Pretoria, Gauteng, South Africa<br>🎓 Belgium Campus (2024 - 2027)</h5>
+<h5 align="center">📍 Pretoria, Gauteng, South Africa<br>🎓 Belgium Campus (2024 - 2027)<br>Software Engineer</h5>
 
 ###
 
