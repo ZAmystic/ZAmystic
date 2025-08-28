@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Software Engineer | Bachelor of Computing Student at Belgium Campus</h3>
+<h3 align="center">Bachelor of Computing Student at Belgium Campus</h3>
 
 ###
 
