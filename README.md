@@ -3,16 +3,16 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1208343853883457577/1384523764246511697/TheartBanner.png?ex=68b100fc&is=68afaf7c&hm=a57337d871815fe97c7060a011c9375f2e10aa4559f798b3b909a07806ee9445&">
+  <img height="200" src="https://cdn.discordapp.com/attachments/1208343853883457577/1384523764246511697/TheartBanner.png?ex=687ee7fc&is=687d967c&hm=40a2e8e4804b3b21a4b567dd1a6b77ed61cca871b7f6ef6a49cdb896d21c6b3b&"  />
 </div>
 
 ###
 
-<h3 align="center">Bachelor of Computing Student at Belgium Campus</h3>
+<h3 align="center">Software Engineer | Bachelor of Computing Student at Belgium Campus</h3>
 
 ###
 
-<h5 align="center">📍 Pretoria, Gauteng, South Africa<br>🎓 Belgium Campus (2024 - 2027)<br>Software Engineer</h5>
+<h5 align="center">📍 Pretoria, Gauteng, South Africa<br>🎓 Belgium Campus (2024 - 2027)</h5>
 
 ###
 
@@ -36,41 +36,61 @@
 
 ###
 
-<h3 align="left">Skills</h3>
+<h3 align="center">Skills</h3>
 
 ###
 
-<h3>🖥️ Front-End Development</h3>
-<p>Crafting intuitive and engaging user interfaces with modern web technologies.</p>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+<p align="left">🖥️ Front-End Development</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
 </div>
 
-<h3>🧠 Back-End Development</h3>
-<p>Building robust logic, simulations, and APIs across multiple languages.</p>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+###
+
+<p align="left">🧠 Back-End Development</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript (Node.js)" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
-<h3>🗄️ Database & Data Management</h3>
-<p>Persistent storage and analytics for real-world applications.</p>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
+###
+
+<p align="left">🔧 Hardware & Embedded Systems</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
 </div>
 
-<h3>🔧 Hardware & Embedded Systems</h3>
-<p>Sensor integration and real-world modeling with microcontrollers.</p>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
-</div>
+###
 
+<h1 align="left"></h1>
+
+###
+
+<h3 align="left">My Github Statistics</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZAmystic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZAmystic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ZAmystic&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZAmystic&radius=16&theme=redical&area=true&order=5&bg_color=36&color=732ACD&title_color=B3C9ED&line=795EE7&area_color=504287&point=fff&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
