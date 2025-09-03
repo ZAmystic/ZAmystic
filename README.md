@@ -80,7 +80,7 @@
 
 <h1 align="left"></h1>
 
-<img src="https://i.pinimg.com/originals/97/81/6c/97816cb12aec6d42ee5f82f69a500dac.gif" width="100"/>
+<img src="https://i.pinimg.com/originals/97/81/6c/97816cb12aec6d42ee5f82f69a500dac.gif" width="100%"/>
 
 <h3 align="left">My Github Statistics</h3>
 
