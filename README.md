@@ -87,7 +87,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZAmystic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZAmystic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ZAmystic&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZAmystic&radius=16&theme=redical&area=true&order=5&bg_color=36&color=732ACD&title_color=B3C9ED&line=795EE7&area_color=504287&point=fff&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
