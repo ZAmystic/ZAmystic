@@ -68,16 +68,6 @@
 
 ###
 
-<p align="left">⚡Frameworks</p>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-</div>
-
-###
-
 <p align="left">🔧 Hardware & Embedded Systems</p>
 
 ###
