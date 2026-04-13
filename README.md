@@ -34,7 +34,7 @@
 
 <h1 align="left"></h1>
 
-###
+<hr/>
 
 <h3 align="center">My CV</h3>
 <div align="center">
