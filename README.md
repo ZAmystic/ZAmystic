@@ -99,6 +99,8 @@
 <p>Fitness tracker WebApp - (https://github.com/ZAmystic/WPR281-Fitness-Website)</p>
 <p>API weather C# app - (https://github.com/ZAmystic/Weather-Application)</p>
 
+<h1 align="left"></h1>
+
 <h3 align="left">My Github Statistics</h3>
 
 ###
