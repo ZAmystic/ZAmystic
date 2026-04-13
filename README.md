@@ -36,6 +36,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="assets/cv.pdf"/>
+</div>
+
+###
+
 <h3 align="center">Skills</h3>
 
 ###
