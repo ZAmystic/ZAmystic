@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img height="800" src="assets/cv.png"/>
+  <img height="1000" src="assets/cv.png"/>
 </div>
 
 ###
