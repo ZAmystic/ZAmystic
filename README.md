@@ -90,6 +90,15 @@
 
 <h1 align="left"></h1>
 
+###
+
+<h3 align="center">Projects</h3>
+
+###
+<p>Website email signature creator for a courier company - (https://github.com/ZAmystic/EmailSignatureApplication)</p>
+<p>Fitness tracker WebApp - (https://github.com/ZAmystic/WPR281-Fitness-Website)</p>
+<p>API weather C# app - (https://github.com/ZAmystic/Weather-Application)</p>
+
 <h3 align="left">My Github Statistics</h3>
 
 ###
