@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  ![Banner](assets/banner.png)
+  <img height="200" src="assets/banner.jpg"/>
 </div>
 
 ###
