@@ -28,7 +28,9 @@
 
 ###
 
-<p align="left">Harvard CS50 Cybersecurity: July 2025 - Present<br><br>❗note all certification files can be found in public repositories as I can't afford the official certification to display my completion❗</p>
+<p align="left">Low Code Development - Jul 2025</p>
+<p align="left">GitHub Labs - Jun 2025</p>
+<p align="left">Agentic Automation - Apr 2025</p>
 
 ###
 
