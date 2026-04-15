@@ -24,13 +24,12 @@
 
 ###
 
-<h3 align="left">Certifications :</h3>
+## 📜 Certifications
 
-###
+![Low Code Development](https://img.shields.io/badge/Low%20Code%20Development-Jul%202025-blue?style=flat-square)
+![GitHub Labs](https://img.shields.io/badge/GitHub%20Labs-Jun%202025-green?style=flat-square)
+![Agentic Automation](https://img.shields.io/badge/Agentic%20Automation-Apr%202025-orange?style=flat-square)
 
-<p align="left">Low Code Development - Jul 2025</p>
-<p align="left">GitHub Labs - Jun 2025</p>
-<p align="left">Agentic Automation - Apr 2025</p>
 
 ###
 
