@@ -24,7 +24,7 @@
 
 ###
 
-## 📜 Certifications
+ <h3 align="center"📜 Certifications></h3>
 
 ![Low Code Development](https://img.shields.io/badge/Low%20Code%20Development-Jul%202025-blue?style=flat-square)<br>
 ![GitHub Labs](https://img.shields.io/badge/GitHub%20Labs-Jun%202025-green?style=flat-square)<br>
