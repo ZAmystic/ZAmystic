@@ -84,7 +84,7 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-</div>
+</div> <br>
 
 <p align="left">📦 Development Tools & Data Science</p>
 
