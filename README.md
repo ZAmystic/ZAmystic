@@ -24,11 +24,14 @@
 
 ###
 
- <h3 align="center"📜 Certifications></h3>
+ <h3 align="center">📜 Certifications</h3>
 
-![Low Code Development](https://img.shields.io/badge/Low%20Code%20Development-Jul%202025-blue?style=flat-square)<br>
-![GitHub Labs](https://img.shields.io/badge/GitHub%20Labs-Jun%202025-green?style=flat-square)<br>
-![Agentic Automation](https://img.shields.io/badge/Agentic%20Automation-Apr%202025-orange?style=flat-square)
+## 📜 Certifications
+
+![Low Code Development](https://img.shields.io/static/v1?label=Certification&message=Low%20Code%20Development%20-%20Jul%202025&color=blue&style=flat-square) <br>
+![GitHub Labs](https://img.shields.io/static/v1?label=Certification&message=GitHub%20Labs%20-%20Jun%202025&color=green&style=flat-square) <br> 
+![Agentic Automation](https://img.shields.io/static/v1?label=Certification&message=Agentic%20Automation%20-%20Apr%202025&color=orange&style=flat-square)
+
 
 
 ###
