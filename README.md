@@ -26,8 +26,8 @@
 
 ## 📜 Certifications
 
-![Low Code Development](https://img.shields.io/badge/Low%20Code%20Development-Jul%202025-blue?style=flat-square)
-![GitHub Labs](https://img.shields.io/badge/GitHub%20Labs-Jun%202025-green?style=flat-square)
+![Low Code Development](https://img.shields.io/badge/Low%20Code%20Development-Jul%202025-blue?style=flat-square)<br>
+![GitHub Labs](https://img.shields.io/badge/GitHub%20Labs-Jun%202025-green?style=flat-square)<br>
 ![Agentic Automation](https://img.shields.io/badge/Agentic%20Automation-Apr%202025-orange?style=flat-square)
 
 
