@@ -3,7 +3,7 @@
   <!-- Left column: smaller ASCII art -->
   <div style="flex: 1; font-size: 8px; line-height: 8px; overflow: hidden;">
 <pre>
-```BASH                                                                                                                                                              
+theart                                                                                                                                                             
                                                                                                                                                               
                                                                                 :..:--                                                                        
                                                                        :#@##@@@@*--+#@@@@@@=                                                                  
