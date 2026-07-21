@@ -1,66 +1,45 @@
-<div style="display: grid; grid-template-columns: 1fr 2fr; gap: 20px;">
-
-  <!-- Left column: ASCII art -->
-  <div style="font-size: 8px; line-height: 8px; overflow: hidden; white-space: pre;">
+<!-- Left column: ASCII art -->
+<div style="font-size: 8px; line-height: 8px; overflow: hidden; white-space: pre;">
 <pre>
-theart
-:..:--
-:#@##@@@@*--+#@@@@@@=
-=#+.+%@+   -*@@=.      #@%.
-@@. -# .= .*@@%@*=+@@@@@@+
-#-  @@@@@@@@@@@@@@@@@@@@@@@@%@@
-@@*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@-
-@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*
-#+@@@#  -++: :*@@@@@@@@@@@@@@@@@@-
-#@-@@@@@@@#++%+--%@@@@@@%@@@@+#@@@:
-.-@@@@@@@@@@@@@%%@%@@@@@     @@@@@@@#+
+theart                                                                                                                                                          
+                                                                                                                                                              
+                                                                                :..:--                                                                        
+                                                                       :#@##@@@@*--+#@@@@@@=                                                                  
+                                                                    =#=.+%@+   -*@@=.      #@%.                                                               
+                                                                 @@. -# .= .*@@%@*=+@@@@@@+                                                                   
+                                                               #-  @@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@                                                            
+                                                              @@*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-                                                           
+                                                              @%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#                                                           
+                                                              @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*                                                           
+                                                              #+@@@#  -++: :*@@@@@@@@@@@@@@@@@@@@@-                                                           
+                                                             #@-@@@@@@@#++%+--%@@@@@@%@@@@+#@@@@@:                                                            
+                                                            .-@@@@@@@@@@@@@%%@%@@@@@     @@@@@@@#+                                                            
+                                                            -##@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#                                                            
+                                                            -%@@@@@@@@@@@@*=@@@@@@@@@@@@@@@@@@@@@*                                                            
+                                                              -*@@%%%%%+#@@@#--#%##@@**@@@@@@@@@@-                                                            
+                                                                #@@@@@@#--*#@@@@@@@@@@@+@@@@@*- .                                                             
+                                                                .*@@@@@@@@@@@@%#@@@@@@@@@@@@*:                                                                
+                                                                 .#%@@@@@@@@@@@@@@@@@@@@@@@*                                                                  
+                                                                  *@%=+@@@@@@@@@@@@@@@@@@@@@                                                                  
+                                                                  @@@@@#+--+**##@@@@%##%@@@                                                                   
+                                                                   @@@@@@@@%*+==+*%@@@@@@@@@%@ *                                                              
+                                                                 .-@@@@@@@@@@@@@@@@@@@@@@@=+@*.@%=                                                            
+                                                                 =%:  @@@@@@@@@@@@@@@@@: :+@@ @@#%+=-                                                         
+                                                            *@%+=+@%#-   @@@@@@@@@@@-  :*%@@:+@@%%*+*@:=                                                      
+                                                         .@@*-+***%@%%##=:   *@%@= :+@@@@@@-=@@%%%%#*@%#*----++-    .-                                        
+                                               -   +@==*@@#++*%#*#+*%%%%%%%@+*=---.@@@@%@@*-@@%%%%%#*@%#%##*+*++=-=--=.    .                                  
+                                             .+@==**##%@#**##*@#*%@#+*%@@@+=##%@@@@% %@@@#.%@@%%%%%##@+#%###*######*%#+*+==-                                  
+                                 -***==----=+*##%%%%%%%##%%##%@+#%@%%%==*=++***@@@@+-. @@ *@@%%%@%%#@@+%%%#%#%####%######%%%@*-#%*=-                          
+                                .*=########%%%%#%##%#%%%%%##*@@=%%@##@%%*#%#*++#%=.:*@@@--@@%%%%%%#%@*%@###%##%###%#%%%%%%%@*-@%@*%+                          
+                                #**%####%%#%%%%%%#%##%%%#%##+@++%@@##@%@@@@*##+*@@@+-#@% @@@@%%%#%%@@+####%%%%#####%%#%##%%#+%%##@@@=                         
+                                ##*###%%###%##%#%%%##%##%%%*#@-#%@@#*%@@@%@+%%#*@@@@:#@--@@%%%%%@@@@+*###%%@%@%%##%%%%%%%%%+#@%%*-:++                         
+                                %%##%#%##%####%#%#%##%%%#%%+@@+%@%%%##@@%@#=@@###%@@+*@.@@@%%%%%%@@**%%%@%%@%%###%@%%%%%@%+#%###@@@--:                        
+                               .*########%#%%#%###%#%%#%###+@-#@@%%%**%@@@++@%#%#%%@#+#=@@@@%%%%@@#*%%%#%%%%%%##%@%%%%%@@=*@%%%%**@@%#                        
+                              .%##%%##%#%%#%%%%#%###%@#%%%#+@-@%%%@%#*%@@@-#@%%%###@%==%@%%%%%%@@%+%%%@%#*#%#%%%@@%#%%%@++@%#%%@%%#%@%                        
+                              @@#%%#%#%%########%###%@%%#%#+@-%%%%@@#**@@@-#@%%%#%#@%=*@@%%%%%%@@-@@%#=-*@@#*%%####%%#%#+#%%%%%%%%%##@%                       
+                              @#######%#%%#%%%%#####*@%%#%%+@-##%%@@%*#%@@-#%+-: :-##-*@@@%%%%@@=#@+-=@@@@%@@%*#%*#%%%@**%%%%%#%@%@%#*@%*                     
+                              *#####%#%#######%#%###*@@%%%%*@@+*%%%@%##%%=.=#@@@@@@**-@@@%%@%@@#=+=%@@@@*-+@*@@==##%%@#*#%#%%%%##%%@@#*@@.                                                                                                                                                                                                                                                                                                                              
 </pre>
-  </div>
-
-  <!-- Right column: Everything else -->
-  <div style="display: flex; flex-direction: column; gap: 20px;">
-
-    <h1 align="center">Hello I'm Theart Jooste</h1>
-
-    <div align="center">
-      <img height="200" src="assets/banner.jpg"/>
-    </div>
-
-    <h3 align="center">Software Engineer | Bachelor of Computing Student at Belgium Campus</h3>
-
-    <h5 align="center">📍 Pretoria, Gauteng, South Africa<br>🎓 Belgium Campus (2024 - 2027)</h5>
-
-    <p align="center">
-      I’m a Software Engineering student at Belgium Campus with a keen focus on building reliable, intuitive, and high-performing digital solutions...
-    </p>
-
-    <h3 align="center">📜 Certifications</h3>
-    <p align="center">
-      ![Low Code Development](https://img.shields.io/badge/Low%20Code%20Development-Jul%202025-blue?style=flat-square)<br>
-      ![GitHub Labs](https://img.shields.io/badge/GitHub%20Labs-Jun%202025-green?style=flat-square)<br>
-      ![Agentic Automation](https://img.shields.io/badge/Agentic%20Automation-Apr%202025-orange?style=flat-square)
-    </p>
-
-    <h3 align="center">My CV</h3>
-    <div align="center">
-      <img height="1000" src="assets/cv.png"/>
-    </div>
-
-    <h3 align="center">Skills</h3>
-    <!-- Skills section here -->
-
-    <h3 align="center">Projects</h3>
-    <p>Website email signature creator - (https://github.com/ZAmystic/EmailSignatureApplication)</p>
-    <p>Fitness tracker WebApp - (https://github.com/ZAmystic/WPR281-Fitness-Website)</p>
-    <p>API weather C# app - (https://github.com/ZAmystic/Weather-Application)</p>
-
-    <h3 align="center">My Github Statistics</h3>
-    <div align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZAmystic&radius=16&theme=redical&area=true&order=5&bg_color=36&color=732ACD&title_color=B3C9ED&line=795EE7&area_color=504287&point=fff&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-    </div>
-
-  </div>
 </div>
 
 <h1 align="center">Hello I'm Theart Jooste</h1>
