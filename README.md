@@ -1,3 +1,8 @@
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <!-- Left column: smaller ASCII art -->
+  <div style="flex: 1; font-size: 8px; line-height: 8px;">
+<pre>
 ```                                                                                                                                                              
                                                                                                                                                               
                                                                                 :..:--                                                                        
@@ -38,6 +43,18 @@
                               *#####%#%#######%#%###*@@%%%%*@@+*%%%@%##%%=.=#@@@@@@**-@@@%%@%@@#=+=%@@@@*-+@*@@==##%%@#*#%#%%%%##%%@@#*@@.                    
                                                                                                                                                                                                                                                                                                                         
 ```
+</pre>
+  </div>
+
+  <!-- Right column: open grid -->
+  <div style="flex: 1; display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; border: 1px dashed gray; padding: 10px;">
+    <div>Grid Cell 1</div>
+    <div>Grid Cell 2</div>
+    <div>Grid Cell 3</div>
+    <div>Grid Cell 4</div>
+  </div>
+
+</div>
 
 
 <h1 align="center">Hello I'm Theart Jooste</h1>
