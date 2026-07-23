@@ -1,3 +1,5 @@
+# UPDATE COMING SOON
+
 <!-- Left column: ASCII art -->
 <div style="font-size: 8px; line-height: 8px; overflow: hidden; white-space: pre;">
 <pre>
