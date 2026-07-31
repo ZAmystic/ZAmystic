@@ -82,14 +82,6 @@ theart
 
 <h1 align="left"></h1>
 
-### 
-
-<h3 align="center">My CV</h3>
-<div align="center">
-  <img height="1000" src="assets/cv.png"/>
-</div>
-<h1 align="center"></h1>
-
 ###
 
 <h3 align="center">Skills</h3>
