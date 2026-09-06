@@ -24,20 +24,6 @@
 
 ###
 
-<h1 align="center"></h1>
-
-###
-
- <h3 align="center">📜 Certifications</h3>
-
-![Low Code Development](https://img.shields.io/badge/Low%20Code%20Development-Jul%202025-blue?style=flat-square)<br>
-![GitHub Labs](https://img.shields.io/badge/GitHub%20Labs-Jun%202025-green?style=flat-square)<br>
-![Agentic Automation](https://img.shields.io/badge/Agentic%20Automation-Apr%202025-orange?style=flat-square)
-
-
-
-###
-
 <h1 align="left"></h1>
 
 ###
@@ -46,76 +32,8 @@
 
 ###
 
-###
-
-<p align="left">⚙️ Frameworks</p>
-
-###
-
-<div align="left">
-  <img src="https://frappe.io/files/frappe.png" height="40" alt="frappe logo" />
-  <img width="12" />
-</div>
-
-<p align="left">🖥️ Front-End Development</p>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<p align="left">🧠 Back-End Development</p>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-</div>
-
-###
-
-<p align="left">📂 Databases</p>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgre logo"/>
-  <img width="12" />
-</div>
-
-###
-
-<p align="left">📦 Development Tools</p>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visual studio logo"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visual studio code logo"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"/>
-  <img width="12" />
+<div>
+  <img height="850" src="assets/Stack.png"/>
 </div>
 
 ###
@@ -123,15 +41,6 @@
 <h1 align="left"></h1>
 
 ###
-
-<h3 align="center">Projects</h3>
-
-###
-<p>Website email signature creator for a courier company - (https://github.com/ZAmystic/EmailSignatureApplication)</p>
-<p>Fitness tracker WebApp - (https://github.com/ZAmystic/WPR281-Fitness-Website)</p>
-<p>API weather C# app - (https://github.com/ZAmystic/Weather-Application)</p>
-
-<h1 align="left"></h1>
 
 <h3 align="left">My Github Statistics</h3>
 
