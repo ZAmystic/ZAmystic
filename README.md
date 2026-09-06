@@ -1,4 +1,4 @@
-<h1 align="center">Hello I'm Theart Jooste</h1>
+<h1>Hello I'm Theart Jooste</h1>
 
 ###
 
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img height="600" src="assets/Screenshot 2026-09-06 224810.png"/>
+  <img height="720" src="assets/TheartASCII.png"/>
 </div>
 
 ###
