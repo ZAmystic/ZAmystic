@@ -33,7 +33,7 @@
 ###
 
 <div>
-  <img height="850" src="assets/Stack.png"/>
+  <img height="800" src="assets/Stack.png"/>
 </div>
 
 ###
