@@ -35,19 +35,3 @@
 <div>
   <img height="800" src="assets/Stack.png"/>
 </div>
-
-###
-
-<h1 align="left"></h1>
-
-###
-
-<h3 align="left">My Github Statistics</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZAmystic&radius=16&theme=redical&area=true&order=5&bg_color=36&color=732ACD&title_color=B3C9ED&line=795EE7&area_color=504287&point=fff&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
