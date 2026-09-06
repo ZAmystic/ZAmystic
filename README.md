@@ -33,5 +33,5 @@
 ###
 
 <div>
-  <img height="800" src="assets/Stack.png"/>
+  <img height="670" src="assets/Stack.png"/>
 </div>
