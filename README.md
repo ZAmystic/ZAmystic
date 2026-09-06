@@ -46,6 +46,17 @@
 
 ###
 
+###
+
+<p align="left">⚙️ Frameworks</p>
+
+###
+
+<div align="left">
+  <img src="https://frappe.io/files/frappe.png" height="40" alt="frappe logo" />
+  <img width="12" />
+</div>
+
 <p align="left">🖥️ Front-End Development</p>
 
 ###
@@ -84,7 +95,8 @@
 <p align="left">📂 Databases</p>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgre logo"/>
@@ -93,20 +105,11 @@
 
 ###
 
-<p align="left">🔧 Hardware & Embedded Systems</p>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-</div> <br>
-
 <p align="left">📦 Development Tools</p>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visual studio logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visual studio code logo"/>
