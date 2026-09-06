@@ -12,11 +12,11 @@
 
 ###
 
-<h3 align="center">Software Engineer | Bachelor of Computing Student at Belgium Campus</h3>
+<h3 align="center">Software Engineer</h3>
 
 ###
 
-<h5 align="center">📍 Pretoria, Gauteng, South Africa<br>🎓 Belgium Campus (2024 - 2027)</h5>
+<h5 align="center">📍 Pretoria, Gauteng, South Africa<br>🎓 Belgium Campus (2024 - 2027)<br>Bachelor of Computing</h5>
 
 ###
 
